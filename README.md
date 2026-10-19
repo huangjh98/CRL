@@ -1,4 +1,4 @@
-# Reliability-Aware Partial Matching for Remote Sensing Image–Text Retrieval with Noisy Correspondence
+# Competitive Reliability Learning for Remote Sensing Image-Text Retrieval with Noisy Correspondence
 
 
 
